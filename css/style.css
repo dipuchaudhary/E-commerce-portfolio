@@ -1,0 +1,100 @@
+#topHeader{
+    border-bottom: 1px #201f1f;
+    text-align:right;
+}
+#topHeader a{
+    color:#181a1b;
+    font-weight: 600;
+    font-size: 0.89rem;
+    
+}
+.container-fluid{
+    margin:0;
+    padding:0;
+}
+nav ul li a{
+    font-size: 1.1rem;
+    font-weight: 600;
+}
+/*START:FOOTER*/
+.full-footer{
+    background-color: #253847;
+    width:100%;
+}
+.top-footer p{
+    color:white;
+}
+.top-footer a{
+    color:white;
+    font-weight: 600;
+}
+.top-footer h3{
+    color:white;
+    
+}
+.bottom-footer{
+    background-color: #090e13;
+}
+.bottom-footer p{
+    color:white;
+}
+/*END :FOOOTER*/
+
+/*start top-hero section for home page */
+.top-hero-section{
+    background-color: #3498db;
+    color: white;
+}
+.top-hero-section a{
+    color: white;
+    font-weight: 600;
+}
+
+/* end of top-hero section for home page */
+
+/*start top-hero 3rd section for about us */
+.qualities-img{
+    width: 200px;
+}
+/* end of top-hero 3rd section for home page */
+.requirements-section{
+    background-color: #004d80;
+    color:white;
+}
+/* START: of top-hero 4th section for home page */
+.home-newsletter{
+    background-color: #004d80;
+    color:white;
+}
+.home-newsletter .form-control{
+    height: 50px;
+    border-color: transparent;
+    border-radius: 20px 0px 0px 20px;
+}
+.home-newsletter .btn{
+   min-height: 50px;
+   border-radius: 0px 20px 20px 0px;
+   background: #243c4f;
+   color: #fff;
+}
+.client-section{
+    background-color: #f0f0f0;
+}
+/* END: 4th section for news letter */
+/* start of about us section */
+.breadcrumb-section{
+    background-color: #e9ecef;
+}
+/* start of contact us */
+.address p{
+    font-weight: 600;
+}
+
+/* webdesign services */
+.bar{
+    border: 1px solid slategray;
+    font-weight: 600;
+    font-size: 1.1rem;
+    color:white;
+    border-radius: 17px;
+}
